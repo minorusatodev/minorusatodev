@@ -15,7 +15,7 @@ I build intelligent, scalable applications that bridge the gap between complex A
 
 ---
 
-<br/>
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -186,6 +186,7 @@ I build intelligent, scalable applications that bridge the gap between complex A
     </td>
  </tr>
 </table>
+
 
 ---
 
