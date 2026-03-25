@@ -187,6 +187,8 @@ I build intelligent, scalable applications that bridge the gap between complex A
  </tr>
 </table>
 
+---
+
 ### 📫 Connect with Me
 
 - 📧 **Email**: minorusatodev@gmail.com, minorusatodev@outlook.com
