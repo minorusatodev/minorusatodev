@@ -8,7 +8,7 @@ I build intelligent, scalable applications that bridge the gap between complex A
 
 ### 🛠️ My Tech Stack
 
-- **AI & Data:** Python, PyTorch, TensorFlow, OpenCV, YOLOv, Scikit-Learn, FastAPI, Django
+- **AI & Data:** Python, PyTorch, TensorFlow, OpenCV, YOLO, Scikit-Learn, FastAPI, Django, Ollama
 - **Frontend:** TypeScript, React.js, Next.js, Node.js, Angular JS, D3.js, Vue.js, Tailwind CSS, Shadcn/UI, Astro, Laravel
 - **Backend:** Node.js, FastAPI, PostgreSQL, MongoDB, Redis, Firebase, Supabase, Nuxt
 - **Cloud & DevOps:** AWS (Lambda, S3), Docker, Kubernetes, CI/CD
