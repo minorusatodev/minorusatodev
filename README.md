@@ -1,20 +1,28 @@
-## Hi there 👋
-### I am Minoru Sato and I live in Tokyo, JP.
-### I am a software engineer & AI developer.
-<!--
-**minorusatodev/minorusatodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Minoru Sato 👋 
 
-Here are some ideas to get you started:
+### 🤖 AI & Full-Stack Developer | Tokyo, JP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build intelligent, scalable applications that bridge the gap between complex AI models and seamless user experiences. Based in the heart of Tokyo's tech hubs, I focus on real-time computer vision and robust web architectures.
+
+---
+
+### 🛠️ My Tech Stack
+
+- **AI & Data:** Python, PyTorch, TensorFlow, OpenCV, YOLOv11, Scikit-Learn, FastAPI, Django
+- **Frontend:** TypeScript, React.js, Next.js, Node.js, Angular JS, D3.js, Vue.js, Tailwind CSS, Shadcn/UI, Astro, Laravel
+- **Backend:** Node.js, FastAPI, PostgreSQL, MongoDB, Redis, Firebase, Supabase, Nuxt
+- **Cloud & DevOps:** AWS (Lambda, S3), Docker, Kubernetes, CI/CD
+
+---
+
+---
+
+### 📫 Connect with Me
+
+- 📧 **Email**: minorusatodev@gmail.com, minorusatodev@outlook.com
+- 📍 **Location**: Shibuya, Tokyo, Japan
+
+"You Only Look Once... so make every line of code count." ⚡
 
 <br/>
 <table align="center">
