@@ -193,5 +193,5 @@ I build intelligent, scalable applications that bridge the gap between complex A
 ### 📫 Connect with Me
 
 - 📧 **Email**: minorusatodev@gmail.com, minorusatodev@outlook.com
-- 📧 **Telegram**: [Telegram](https://t.me/yourusername)
+- 📧 **Telegram**: [Telegram](https://t.me/minorusatodev)
 - 📍 **Location**: Shibuya, Tokyo, Japan
